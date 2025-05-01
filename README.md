@@ -21,7 +21,7 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDevjrs&layout=compact&hide_border=true&title_color=A9A9A9&text_color=A9A9A9&bg_color=0d1117" />	
  
 
-<h2>Tecnologias que uso e estudo no meu dia</h2>
+
 
 <div style="display: inline_block"><br/>
 	<img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,11 +35,8 @@
 	<br/>
 	<br/>
 
-<h4 align="left">Apaixonado por tecnologia</h4>
+
 	
-<p align="left"> 
-➜ 💼 Atualmente trabalho com o Microsoft 365, pesquisas e sistemas de desenvolvimentos básicos como estagiário<br/>
-➜ 📚 Estudando Cybersecurity e Full-Stack<br/>	
 	
 </p>
   
