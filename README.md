@@ -7,12 +7,7 @@
 <br>
 <br>
 
-<div align="center"> 
-  
-  <a href="https://www.instagram.com/_gustavoln/?igshid=ZDdkNTZiNTM%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.udemy.com/user/gustavo-de-lima-nunes/" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-nunes-b769a0239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
 <br>
 
 <div align="center">  
