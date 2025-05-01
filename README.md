@@ -19,7 +19,7 @@
 
 
 <div style="display: inline_block"><br/>
-	<
+
 	<img aling="center" alt="kalilinux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </div><br\>
 	<br/>
